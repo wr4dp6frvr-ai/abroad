@@ -1,5 +1,3 @@
-# abroad
-Hab dich lieb!
 <!DOCTYPE html>
 <html lang="de">
 <head>
